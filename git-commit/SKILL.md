@@ -15,7 +15,8 @@ Used to add and commit unchecked changes to a git repository.
 
 # Conventional commits
 
-Always use convetional commit prefixes to describe the changes.
+Always use convetional commit prefixes to describe the changes, unless it's
+clear that the repo already has a different convention going on.
 
 Split up into mutiple smaller commits if it makes sense to do so.
 
