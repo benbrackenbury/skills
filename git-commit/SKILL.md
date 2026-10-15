@@ -1,6 +1,6 @@
 ---
 name: git-commit
-description: Add and commit changes to a git repository.
+description: Use when committing changes. Whenever asked to commit, commit and push, etc.
 ---
 
 # Git Commit
